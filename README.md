@@ -70,9 +70,9 @@ k) Warnings
 
 *****Miscellaneous:*****
 
-[Midway Report Link](https://github.com/vinitudasi/customer-lifetime-prediction-using-python/blob/main/Customer%20Lifetime%20Prediction%20Using%20Probabilistic%20Models%20-%20Midway%20Report.ipynb) | [Attributes TXT File](https://github.com/vinitudasi/customer-lifetime-prediction-using-python/blob/main/Online%20Retail%20Dataset%20Attributes%20Info.txt) | [Dataset Link](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II#) | [Baseline Model Results](https://github.com/vinitudasi/customer-lifetime-prediction-using-python/blob/main/Predicted%20CLV%20Results.csv)
+[Midway Report Link](https://github.com/vinitudasi/customer-value-prediction/blob/main/Customer%20Lifetime%20Prediction%20Using%20Probabilistic%20Models%20-%20Midway%20Report.ipynb) | [Attributes TXT File](https://github.com/vinitudasi/customer-value-prediction/blob/main/Online%20Retail%20Dataset%20Attributes%20Info.txt) | [Dataset Link](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II#) | [Baseline Model Results](https://github.com/vinitudasi/customer-value-prediction/blob/main/Predicted%20CLV%20Results.csv)
 
-Final Model is Live Now: https://vinitudasi-customer-lifetime-model-de-streamlit-app-t3zaq6.streamlit.app/
+
 
 
 
